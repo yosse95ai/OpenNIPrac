@@ -24,4 +24,4 @@ Depthカメラの距離データを使ってみる
 
 ノーマル
 
-![Mirror](https://github.com/yosse95ai/OpenNIPrac/blob/images/images/nonMirror.png)
+![nonMirror](https://github.com/yosse95ai/OpenNIPrac/blob/images/images/nonMirror.png)
