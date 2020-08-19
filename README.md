@@ -13,4 +13,4 @@ Depthカメラの距離データを使ってみる
 ## prac3 res
 ストリームデータの情報を使ってみる
 
-[a](https://raw.githubusercontent.com/yosse95ai/OpenNIPrac/images/ret/ret3.txt)
+[JUMP RESULT >>](https://raw.githubusercontent.com/yosse95ai/OpenNIPrac/images/ret/ret3.txt)
