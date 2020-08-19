@@ -14,3 +14,14 @@ Depthカメラの距離データを使ってみる
 ストリームデータの情報を使ってみる
 
 [JUMP RESULT >>](https://raw.githubusercontent.com/yosse95ai/OpenNIPrac/images/ret/ret3.txt)
+
+## prac4 res
+出力をミラー化する
+
+ミラー
+
+![Mirror](https://github.com/yosse95ai/OpenNIPrac/blob/images/images/mirror.png)
+
+ノーマル
+
+![Mirror](https://github.com/yosse95ai/OpenNIPrac/blob/images/images/nonMirror.png)
