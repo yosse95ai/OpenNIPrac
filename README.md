@@ -25,3 +25,8 @@ Depthカメラの距離データを使ってみる
 ノーマル
 
 ![nonMirror](https://github.com/yosse95ai/OpenNIPrac/blob/images/images/nonMirror.png)
+
+## prac5 res
+クロッピングについて
+
+よくわからなかった...
