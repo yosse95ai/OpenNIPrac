@@ -1,0 +1,132 @@
+Color Stream
+Cropping support : 1
+Horizontal FOV : 1.0226
+Vertical FOV : 0.796616
+Max Pixel Value : 0
+Min Pixel Value : 0
+Sensor Type     : SENSOR_COLOR
+
+Supported VideoMode :
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_RGB888
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_YUV422
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 60
+ PixelFormat : PIXEL_FORMAT_RGB888
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 60
+ PixelFormat : PIXEL_FORMAT_YUV422
+
+ ResolutionX : 640
+ ResolutionY : 480
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_RGB888
+
+ ResolutionX : 640
+ ResolutionY : 480
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_YUV422
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 25
+ PixelFormat : PIXEL_FORMAT_RGB888
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 25
+ PixelFormat : PIXEL_FORMAT_YUV422
+
+ ResolutionX : 640
+ ResolutionY : 480
+ FPS         : 25
+ PixelFormat : PIXEL_FORMAT_RGB888
+
+ ResolutionX : 640
+ ResolutionY : 480
+ FPS         : 25
+ PixelFormat : PIXEL_FORMAT_YUV422
+
+ ResolutionX : 1280
+ ResolutionY : 1024
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_RGB888
+
+ ResolutionX : 1280
+ ResolutionY : 1024
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_GRAY8
+
+CameraSettings
+ Auto Exposure Enabled     : 1
+ Auto WhiteBalamce Enabled : 1
+ Exporsure                 : 0
+ Gain                      : 100
+Depth Stream
+Cropping support : 1
+Horizontal FOV : 1.0226
+Vertical FOV : 0.796616
+Max Pixel Value : 10000
+Min Pixel Value : 0
+Sensor Type     : SENSOR_DEPTH
+
+Supported VideoMode :
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_DEPTH_1_MM
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_DEPTH_100_UM
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 60
+ PixelFormat : PIXEL_FORMAT_DEPTH_1_MM
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 60
+ PixelFormat : PIXEL_FORMAT_DEPTH_100_UM
+
+ ResolutionX : 640
+ ResolutionY : 480
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_DEPTH_1_MM
+
+ ResolutionX : 640
+ ResolutionY : 480
+ FPS         : 30
+ PixelFormat : PIXEL_FORMAT_DEPTH_100_UM
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 25
+ PixelFormat : PIXEL_FORMAT_DEPTH_1_MM
+
+ ResolutionX : 320
+ ResolutionY : 240
+ FPS         : 25
+ PixelFormat : PIXEL_FORMAT_DEPTH_100_UM
+
+ ResolutionX : 640
+ ResolutionY : 480
+ FPS         : 25
+ PixelFormat : PIXEL_FORMAT_DEPTH_1_MM
+
+ ResolutionX : 640
+ ResolutionY : 480
+ FPS         : 25
+ PixelFormat : PIXEL_FORMAT_DEPTH_100_UM
