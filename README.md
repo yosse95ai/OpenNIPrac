@@ -30,3 +30,8 @@ Depthカメラの距離データを使ってみる
 クロッピングについて
 
 よくわからなかった...
+
+## prac6 res
+IR画像を出力
+
+![IRStream](https://github.com/yosse95ai/OpenNIPrac/blob/images/images/ret6.png)
