@@ -47,3 +47,8 @@ IR画像を出力
 
 ![streamPlay](https://github.com/yosse95ai/OpenNIPrac/blob/images/images/ret8.png)
 
+## PRAC9
+接続されているデバイスを取得
+
+[JUMP RESULT >>](https://raw.githubusercontent.com/yosse95ai/OpenNIPrac/images/ret/ret9.txt)
+
