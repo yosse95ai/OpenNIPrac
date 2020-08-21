@@ -57,3 +57,8 @@ IR画像を出力
 
 [JUMP RESULT >>](https://raw.githubusercontent.com/yosse95ai/OpenNIPrac/images/ret/ret10.txt)
 
+## PRAC11
+接続されているデバイスの抜き差しを取得する
+
+[JUMP RESULT >>](https://raw.githubusercontent.com/yosse95ai/OpenNIPrac/images/ret/ret11.txt)
+
