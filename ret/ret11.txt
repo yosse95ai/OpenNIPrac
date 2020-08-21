@@ -1,0 +1,5 @@
+onDeviceDisconnected：PS1080
+onDeviceConnected：PS1080
+onDeviceDisconnected：PS1080
+onDeviceConnected：PS1080
+onDeviceDisconnected：PS1080
