@@ -35,3 +35,8 @@ Depthカメラの距離データを使ってみる
 IR画像を出力
 
 ![IRStream](https://github.com/yosse95ai/OpenNIPrac/blob/images/images/ret6.png)
+
+## prac7 res
+ストリームデータの保存
+.oniファイルとして映像記録を保存する
+
