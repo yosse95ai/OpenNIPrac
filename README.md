@@ -52,3 +52,8 @@ IR画像を出力
 
 [JUMP RESULT >>](https://raw.githubusercontent.com/yosse95ai/OpenNIPrac/images/ret/ret9.txt)
 
+## PRAC10
+接続されているデバイスを取得
+
+[JUMP RESULT >>](https://raw.githubusercontent.com/yosse95ai/OpenNIPrac/images/ret/ret10.txt)
+
